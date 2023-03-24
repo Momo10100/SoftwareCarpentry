@@ -2,8 +2,6 @@
 
 ## Abstract
 
-## Acknowledgements
-
 ## Introduction
 
 ## Methods
@@ -13,3 +11,5 @@
 ## Discussion
 
 ## Conclusion
+
+## Acknowledgements
