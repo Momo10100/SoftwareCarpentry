@@ -2,9 +2,13 @@
 
 ## Abstract
 
+## Acknowledgements
+
 ## Introduction
 
 ## Methods
+
+## Results
 
 ## Discussion
 
